@@ -7,3 +7,5 @@ Step 2: Set all four drss meta values in all html files you want to include.
 <br>
 <br>
 Step 3: Link your RSS reader to the ```drss.php```'s location
+
+To watch a demo download this repo and access ```drss.php``` (PHP must be running)
